@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdur-rahim-emon" alt="abdur-rahim-emon" /></a> </p>
 
-- Student [Car Rental System](CarRental/src/main/java/CarRental)
 
-- 🌱 I’m currently learning **Data Structures**
+
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdur-Rahim-Emon](https://github.com/Abdur-Rahim-Emon)
 
