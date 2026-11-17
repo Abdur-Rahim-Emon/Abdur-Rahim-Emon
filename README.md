@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdur-Rahim-Emon/java-basic-code-bY-anisul-islam.git](https://github.com/Abdur-Rahim-Emon/java-basic-code-bY-anisul-islam.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Abdur-Rahim-Emon](https://github.com/Abdur-Rahim-Emon)
 
 - 📝 I regularly write articles on [Improve my skills](Improve my skills)
 
-- 💬 Ask me about **Java**
+  
 
 - 📫 How to reach me **ug2202005@cse.pstu.ac.bd**
 
